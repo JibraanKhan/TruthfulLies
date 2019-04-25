@@ -12,12 +12,14 @@ p{
 h1{
   font-size: 38px;
   color:#00ff65;
+  text-align: center;
   font-style: Source Sans Pro
 }
 
 h2{
   font-size: 32px;
   color:#77ffad;
+  text-align: center;
 }
 
 div{
