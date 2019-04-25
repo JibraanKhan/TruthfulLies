@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+}
+
+p{
+  text-indent: 30px;
+  color:white;
+  font-size: 24px;
+  font-style: Montserrat;
+}
+
+h1{
+  font-size: 38px;
+  color:#00ff65;
+  font-style: Source Sans Pro
+}
+
+h2{
+  font-size: 32px;
+  color:#77ffad;
+}
+
+div{
+  margin:11px;
+  padding:20px;
+  background-color: #0040a8;
+}
+
+.d1{
+  float:left;
+  width: 48%;
+  height: 100%;
+}
+
+.d2{
+  float:right;
+  width: 43%;
+  height: 80%;
+}
